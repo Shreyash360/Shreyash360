@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Hande</h1>
 <h3 align="center">A passionate Engineer & Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw11jUNqadHuedSytvgNfbG1&ust=1694082784199000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiuwabklYEDFQAAAAAdAAAAABAk">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyash360&label=Profile%20views&color=0e75b6&style=flat" alt="shreyash360" /> </p>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Shreyash360/Shreyash360/assets/141824813/7da0449d-5ab3-4051-8b44-e49b2eb7c750)
+" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1hRlCI5ZdU42eYlWU_p-pEtiKIeFEmDYc?usp=sharing](https://drive.google.com/drive/folders/1hRlCI5ZdU42eYlWU_p-pEtiKIeFEmDYc?usp=sharing)
 
