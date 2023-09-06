@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shreyash-hande-a1a723171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyash-hande" height="30" width="40" /></a>
 <a href="https://instagram.com/shreyash__360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyash__360" height="30" width="40" /></a>
-<a href="https://https://youtube.com/@assaulteon3148?si=6P3v-embexxoJjUb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ASSAULT么๛EON" height="30" width="40" /></a>
+<a href="www.youtube.com/c/assaulteon3148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ASSAULT么๛EON" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/suXNSE3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/suXNSE3" height="30" width="40" /></a>
 </p>
 
