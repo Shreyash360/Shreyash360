@@ -1,4 +1,4 @@
-![logo](https://github.com/Shreyash360/Shreyash360/blob/main/BANNER.png)
+![logo](https://github.com/Shreyash360/Shreyash360/blob/main/Screenshot%202024-01-26%20195200.png)
 <h1 align="center">Hi 👋, I'm Shreyash Hande</h1>
 <h3 align="center">A passionate Engineer & Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
