@@ -4,15 +4,19 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyash360&label=Profile%20views&color=0e75b6&style=flat" alt="shreyash360" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1hRlCI5ZdU42eYlWU_p-pEtiKIeFEmDYc?usp=sharing](https://drive.google.com/drive/folders/1hRlCI5ZdU42eYlWU_p-pEtiKIeFEmDYc?usp=sharing)
+🚀 Aspiring Data Analyst | Analytical Enthusiast | Fresh Graduate 🎓
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Nr8pJQ9T_v0WzTuYXEjkIUPRRpH7WBih/view?usp=sharing](https://drive.google.com/file/d/1Nr8pJQ9T_v0WzTuYXEjkIUPRRpH7WBih/view?usp=sharing)
+Hello, I'm Shreyash Hande, a recent graduate with a passion for transforming raw data into actionable insights. . What sets me apart is my insatiable curiosity and commitment to continuous learning. I'm not just looking for a job; I'm seeking a platform to apply my knowledge, refine my skills, and contribute meaningfully to a dynamic team. 
+
+🤝 If you're on the lookout for a detail-oriented, analytical thinker who is ready to hit the ground running and grow in a data-centric role, let's connect! I'm eager to explore opportunities where I can leverage my skills to make meaningful contributions to data-driven decision-making.
+
+#DataAnalyst #Analytics #FreshGraduate #DataDriven #ProblemSolver
+
 
 - 📫 How to reach me **shreyashhande01@gmail.com**
 
 - Discord [https://discord.gg/suXNSE3](https://discord.gg/suXNSE3)
 
-- I love Gaming **🎮🎮🕹️🕹️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
